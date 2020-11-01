@@ -1,0 +1,28 @@
+Project Description
+Front End Development Files are in Client folder:
+
+Packages used for the development:
+
+1.React Bootstrap - It is used  for the frontend framework with customizable code and dependencies.
+2.axios-promise-based HTTP client that works both in the browser and in a node. js environment.
+3.rect-router-dom - it package rendering the endpoints
+4.react-redux- It is used for the statemnent
+5.redux-thug - it is middle for the actions 
+
+
+Backend 
+
+1.Nodejs server setup environment.
+2.Expressjs -Run under top on the node for request handling and response
+3.nodemon- it used for monitor for any changes in your code and automatically restart your server.
+4.concurrently- it is used to run both frontend and backend concurrently in different kind of ports
+5.mongoose: used to interact with MongoDB	
+6.passport: it is pulgin for maintaining the authenticate 
+7.passport-jwt:  it is JSON web token for end to end point authentication.
+8.validator : to check validation like (form)
+9.bcryptjs: used to hash the password
+10.bodyparser: it a middleware to maintaince the request
+ 
+Database: MongoDB 
+
+
